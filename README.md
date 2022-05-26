@@ -23,7 +23,7 @@ This website will also provide general awareness, guidelines and rules during va
 
 ## 🔗 Links
 
-- GitHub repo link: [Link to repository](https://github.com/Satyam/DiRe)
+- GitHub repo link: [Link to repository]([https://github.com/Satyam/DiRe](https://github.com/SATYAM1548/DiRe))
 - Drive link (Screenshots): [Drive link here](https://drive.google.com/drive/folders/1KPdzv5iExtERCmof42gtAjJugaGFvFlM?usp=sharing)
 
 ## 🤖 Technology Stack
@@ -44,7 +44,7 @@ This website will also provide general awareness, guidelines and rules during va
 1. Clone the repository
 
 ```
-git clone https://github.com/Nishtan/DiRe
+git clone https://github.com/SATYAM1548/DiRe
 ```
 
 2. Install Node.js (JavaScript runtime environment) and MongoDB(document-oriented database program)
